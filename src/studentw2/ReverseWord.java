@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- *
+ *hello there
  * @author Sarah
  */
 public class ReverseWord {
