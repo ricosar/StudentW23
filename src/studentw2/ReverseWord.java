@@ -3,6 +3,7 @@ import java.util.Scanner;
  *hello there
  * @author Sarah
  added comment for PULL
+ added comment for PULL command at 12:37pm
  */
 public class ReverseWord {
     
