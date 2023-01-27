@@ -12,6 +12,7 @@ public class StudentW2 {
     
     private String studentId;
     private String studentName;
+    private String address;
     
     //constructor that initalizes the object.
     public StudentW2(String studentId, String studentName) {
@@ -19,6 +20,14 @@ public class StudentW2 {
         this.studentName = studentName;
     }
 
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+    
     public String getStudentId() {
         return studentId;
     }
